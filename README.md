@@ -1,5 +1,7 @@
 # react-native-ad-inspector
 
+<a href="https://www.npmjs.com/package/react-native-ad-inspector"><img src="https://img.shields.io/npm/v/react-native-ad-inspector" alt="NPM downloads"></a>
+
 React Native module for Admob Ad Inspector
 https://developers.google.com/admob/ios/ad-inspector
 
