@@ -1,7 +1,7 @@
 import { NativeModules } from 'react-native';
 
 type AdInspectorType = {
-  multiply(a: number, b: number): Promise<number>;
+  open(): void;
 };
 
 const { AdInspector } = NativeModules;
